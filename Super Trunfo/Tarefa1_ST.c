@@ -19,7 +19,6 @@ int main(){
     printf("PIB: %.2f bilhões\n", PIB);
     printf("Pontos turísticos: %d\n", Ptur);
     printf("\n");
-    
     //Observação: A área está com três casas decimais(%.3f) e o PIB está com duas casas decimais(%.2f).
     /*
     Onde para cada código acima temos:
@@ -50,7 +49,6 @@ int main(){
     printf("Área em km²: %.3f km²\n", area);
     printf("PIB: %.2f bilhões\n", pib);
     printf("Pontos turísticos: %d\n", ptur);
-
     //Observação: A área está com três casas decimais(%.3f) e o PIB está com duas casas decimais(%.2f).
     /*
     Para cada código acima temos:
@@ -58,8 +56,8 @@ int main(){
     estado: O Estado que se localiza a cidade.
     cod: O código da carta.
     ncid: O nome da cidade.
-    pop: A população.
-    area: área em km².
+    pop: População.
+    area: Área em km².
     pib: PIB.
     ptur: Pontos turísticos.
     */
