@@ -19,7 +19,7 @@ int main(){
     printf("PIB: %.2f bilhões\n", PIB);
     printf("Pontos turísticos: %d\n", Ptur);
     printf("\n");
-    //Observação: A área está com três casas decimais(%.3f) e o PIB está com duas casas decimais(%.2f).
+    //Atenção! A área está com três casas decimais(%.3f) e o PIB está com duas casas decimais(%.2f).
     /*
     Onde para cada código acima temos:
     NCarta: O Número da carta.
@@ -49,7 +49,7 @@ int main(){
     printf("Área em km²: %.3f km²\n", area);
     printf("PIB: %.2f bilhões\n", pib);
     printf("Pontos turísticos: %d\n", ptur);
-    //Observação: A área está com três casas decimais(%.3f) e o PIB está com duas casas decimais(%.2f).
+    //Atenção! A área está com três casas decimais(%.3f) e o PIB está com duas casas decimais(%.2f).
     /*
     Para cada código acima temos:
     ncarta: O número da carta.
@@ -61,7 +61,7 @@ int main(){
     pib: PIB.
     ptur: Pontos turísticos.
     */
-
+   
 
     return 0;
 
